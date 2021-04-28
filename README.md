@@ -1,6 +1,6 @@
-H6 bharatkh92.github.io
+###### bharatkh92.github.io
 
-H1 Below are the projects I compleated as part of the [**CodeCademy Fullstack Career Course**](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+# Below are the projects I compleated as part of the [**CodeCademy Fullstack Career Course**](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
 
 1 [**Dasmotos Arts Crafts Html and Css page**](https://bharatkh92.github.io/dasmotosartscrafts/)
 
