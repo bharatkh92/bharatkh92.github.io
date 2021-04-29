@@ -6,4 +6,6 @@
 
 2 [**JS Script Thath Returns Random Messages**](https://bharatkh92.github.io/mixedmsgsproject/)
 
-3 [**A Custom Cheatsheet Using Html amd Css**](https://bharatkh92.github.io/custom-cheatsheet/)
+3 [**A Custom Cheatsheet Using Html and Css**](https://bharatkh92.github.io/custom-cheatsheet/)
+
+4 [**A Excursion App Project Using Html and Css**](https://bharatkh92.github.io/excursion/)
