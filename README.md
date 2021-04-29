@@ -2,7 +2,7 @@
 
 # Below are the projects I compleated as part of the [**CodeCademy Fullstack Career Course**](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
 
-1 [**Dasmotos Arts Crafts Html and Css page**](https://bharatkh92.github.io/dasmotosartscrafts/) ([repo])(https://github.com/bharatkh92/dasmotosartscrafts)
+1 [**Dasmotos Arts Crafts Html and Css page**](https://bharatkh92.github.io/dasmotosartscrafts/) ([repo][1])[1]:https://github.com/bharatkh92/dasmotosartscrafts
 
 2 [**JS Script Thath Returns Random Messages**](https://bharatkh92.github.io/mixedmsgsproject/)  ([repo])(https://github.com/bharatkh92/mixedmsgsproject)
 
